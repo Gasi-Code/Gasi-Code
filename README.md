@@ -3,20 +3,18 @@
   Built in phases (banner / stats / snake / badges) — see project docs for the full spec.
 -->
 
-<!--
-  PHASE 1 — Banner (pending)
-  Upload dark.svg and light.svg to the repo root, then uncomment:
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/light.svg">
-    <img alt="Gasi-Code" src="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/light.svg">
-  </picture>
--->
-
 <div align="center">
+
+<!-- PHASE 1 — Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/light.svg">
+  <img alt="Gasi-Code" src="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/light.svg">
+</picture>
+
+<br/><br/>
 
 <!-- PHASE 2 — Stats cards (self-hosted) -->
 <!-- TODO: replace YOUR-INSTANCE once the Vercel deployment from Phase 2 is live -->
