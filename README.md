@@ -14,7 +14,9 @@
   <img alt="Gasi-Code" src="https://raw.githubusercontent.com/Gasi-Code/Gasi-Code/main/light.svg">
 </picture>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=30&lines=Building+Questorr...;Wrangling+Docker+containers...;Pairing+with+Claude+Code..." alt="typing" />
+
+<br/>
 
 <!-- PHASE 2 — Stats cards (self-hosted) -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=Gasi-Code&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
@@ -37,17 +39,17 @@
 
 <br/><br/>
 
+</div>
+
+### 📡 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
 <!-- PHASE 4 — Social badges -->
-<a href="https://discordapp.com/users/735571797017100368">
-  <img src="https://img.shields.io/badge/Discord-gasi________-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-&nbsp;&nbsp;
-<a href="https://ko-fi.com/jellyforgedev">
-  <img src="https://img.shields.io/badge/Ko--fi-0A101F?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B&labelColor=0A101F" alt="Ko-fi" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gasi-code@jellyforge.de">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
+<p align="center">
+<a href="https://discordapp.com/users/735571797017100368"><img src="https://img.shields.io/badge/Discord-gasi________-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://ko-fi.com/jellyforgedev"><img src="https://img.shields.io/badge/Ko--fi-0A101F?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B&labelColor=0A101F" alt="Ko-fi" /></a> <a href="mailto:gasi-code@jellyforge.de"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+</p>
 
 </div>
