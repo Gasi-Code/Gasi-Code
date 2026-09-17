@@ -42,7 +42,7 @@
 <!-- PHASE 4 — Social badges -->
 <p align="center">
   
-<a href="https://discordapp.com/users/735571797017100368"><img src="https://img.shields.io/badge/Discord-gasi________-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://ko-fi.com/jellyforgedev"><img src="https://img.shields.io/badge/Ko--fi-0A101F?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B&labelColor=0A101F" alt="Ko-fi" /></a> <a href="mailto:gasi-code@jellyforge.de"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+<a href="https://discordapp.com/users/735571797017100368"><img src="https://img.shields.io/badge/Discord-gasi________-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://ko-fi.com/jellyforgedev"><img src="https://img.shields.io/badge/Ko--fi-0A101F?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B&labelColor=0A101F" alt="Ko-fi" /></a>
 </p>
 
 </div>
